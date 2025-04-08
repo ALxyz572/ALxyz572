@@ -48,7 +48,7 @@
 # 🎬 Mini Video & Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif" width="400px" alt="Coding GIF">
+  <img src="https://via.placeholder.com/150x100.png?text=Video+Showcase" width="400px" alt="Coding GIF">
 </p>
 
 ---
