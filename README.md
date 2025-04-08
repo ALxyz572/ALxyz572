@@ -1,24 +1,58 @@
-# 💫 About Me:
-Saya hanya pemula 🛐
+<div align="center" style="width: 95%;">
 
+# <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">Alpin Developer</span>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alpian1_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alpinklsel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alpinunband) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alpindevv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaalpian@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alxyz572&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alxyz572&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxyz572&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alxyz572&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alxyz572&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Animasi Mengetik -->
+## <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&color=00C6FF&center=true&vCenter=true&width=1000&lines=Selamat+Datang+di+Profil+Alpin+Developer;Nikmati+perjalanan+dan+ilmu+di+sini!"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Alxyz572&icon=4&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# <span style="color:#ff6ec4;">Tentang Saya</span> 🎓
+
+- **Makanan Favorit:** <span style="color:#00c6ff;">Sate Ayam, Pizza, Ramen</span>  
+- **Kegiatan:** <span style="color:#ffafbd;">Ngoding, Desain, Membaca Buku Teknologi</span>  
+- **Status Pendidikan:** <span style="color:#f77062;">Mahasiswa Informatika</span>  
+- **Hobi:** <span style="color:#42e695;">Gaming, Musik, Traveling</span>  
+
+---
+
+# <span style="color:#ffb347;">Skill</span> ⚡
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JavaScript" />
+</p>
+
+---
+
+# <span style="color:#00c6ff;">Deteksi Foto & Video</span> 📷🎥
+
+> **Sedang Mendeteksi...**  
+> Gambar atau video kamu akan dikenali secara otomatis!  
+> (Placeholder fitur - segera hadir)
+
+---
+
+# <span style="color:#ff6ec4;">Sosial Media</span> 🌍
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alpindev)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alpindev)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alpindev)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628xxxxxxxxxx)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alpindev)  
+[![X](https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alpindev)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alpindev)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alpindev@gmail.com)
+
+---
+
+# <span style="color:#00c6ff;">Terima Kasih</span> ✨
+
+> "Semangat berkarya, terus berbagi ilmu, dan jangan lupa bahagia!"
+  
+---
+
+</div>
