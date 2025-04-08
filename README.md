@@ -13,67 +13,73 @@
 | Kategori | Info |
 |:---|:---|
 | **Nama** | Alpin Developer |
-| **Kegiatan** | Coding, Desain, Konten Kreator |
-| **Status** | Mahasiswa TI |
-| **Makanan Favorit** | Ayam Geprek, Pizza |
-| **Hobi** | Ngoding, Desain, Gaming |
-| **Cita-Cita** | Developer Internasional |
+| **Kegiatan** | Coding, Desain, Content Creator |
+| **Status** | Mahasiswa Teknik Informatika |
+| **Makanan Favorit** | Ayam Geprek, Pizza, Burger |
+| **Hobi** | Ngoding, Ngonten, Desain, Gaming |
+| **Skill Khusus** | Fullstack Developer, UI/UX Designer, Video Editor |
 
 ---
 
-# 🛠️ SKILL SAYA
-<div style="display:flex; justify-content:center; gap:20px;">
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-</div>
-
----
-
-# 🔥 Sosial Media
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailmu@gmail.com)
-
----
-
-# 🎥 Fake Video Section
-
-> ![Fake Video](https://media.giphy.com/media/3o6ZsYm5dI2lcW1mDu/giphy.gif)
-
----
-
-# 🖼️ Foto Aesthetic Section
-
-> ![Foto Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
----
-
-# 🧠 Quotes Favorit
-
-> "**Bermimpilah setinggi langit, karena codingan mu adalah jembatannya.**"  
-> &mdash; Alpin Developer
-
----
-
-# ✅ Footer
+# ⚡ Skill Saya
 
 <div align="center">
-
-Made with ❤️ by **Alpin Developer**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" width="25"/>
-
+  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,tailwind,figma,bootstrap,python,java" style="width: 100%; max-width: 800px;">
+  
 </div>
+
+---
+
+# 🌐 Sosial Media
+
+<p align="center">
+  <a href="https://tiktok.com/@alpindeveloper" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://youtube.com/@alpindeveloper" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://instagram.com/alpindeveloper" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/alpindeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://facebook.com/alpindeveloper" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:alpindeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://telegram.me/alpindeveloper" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+# 🎬 Mini Video & Preview
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif" width="400px" alt="Coding GIF">
+</p>
+
+---
+
+# 📷 Gambar Estetik
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1508873699372-7ae1f186559e" width="600px" alt="Coding Photo">
+</p>
+
+---
+
+# 🏆 Statistik Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alpindeveloper&show_icons=true&theme=tokyonight" width="500px">
+</p>
+
+---
+
+# 🔥 Fun Fact
+
+- Aku makan kode lebih sering daripada makan nasi.
+- Kopi sudah seperti darah dalam tubuh.
+- Motto: **“Berhenti? Bukan Pilihan.”**
+
+---
+
+<br><br>
+
+# <img src="https://img.shields.io/badge/Verified%20Account-00ADEF?style=for-the-badge&logo=checkmarx&logoColor=white">  
+## <span style="color:cyan;">© 2025 Alpin Developer | Made With Full Power</span>
 
 </div>
