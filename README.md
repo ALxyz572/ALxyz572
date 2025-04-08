@@ -39,7 +39,7 @@
 | **Rust** | ![Rust](https://img.icons8.com/color/48/rust-programming-language.png) |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 | **Facebook** | Alpin Developer | ![Facebook](https://img.icons8.com/color/48/facebook-new.png) |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/X8aDrMa9lW8s0/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="200"/>
 </p>
 
 ---
