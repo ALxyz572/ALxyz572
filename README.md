@@ -1,74 +1,74 @@
 <div align="center">
 
-# 🎩✨ <span style="font-size:70px;background: linear-gradient(to right, #00c6ff, #ff00cc);-webkit-background-clip: text;color: transparent;">Alpin Developer</span> ✨🎩
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" width="50px" height="50px">
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%" />
+
+# <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="50px" /> **Selamat Datang di Profil Alpin Developer**
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=Selamat+Datang+di+Profil+Alpin+Developer;Fullstack+Developer+and+Content+Creator;Inovasi+Tanpa+Batas;Ngoding+Sambil+Ngopi+dan+Makan+Ayam+Geprek;Stay+Creative+and+Humble;Belajar+Coding+Sampai+Tua;Ngetik+Kode+Sampai+Subuh;Alpin+Developer+Always+Gacor!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&width=700&lines=Selamat+Datang+di+Profil+Alpin+Developer;Makan+Favorit:+Bakso+dan+Sate;Hobi:+Coding+%2F+Ngopi+%2F+Gaming;Status:+Mahasiswa+Teknik+Informatika;Fokus:+Frontend+%2B+Backend+Developer;Jangan+Lupa+Follow+Sosmed+Gw+Juga!" />
 
 ---
 
-# 🖼️ Foto Workspace Coding
-![Coding Workspace](https://images.unsplash.com/photo-1555949963-aa79dcee981d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+## <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="30px" /> Tentang Saya
+- **Nama:** Alpin Developer
+- **Makanan Favorit:** Bakso, Sate, Seblak
+- **Minuman Favorit:** Es Teh Manis
+- **Hobi:** Ngoding, Ngopi, Gaming, Ngonten
+- **Pendidikan:** Mahasiswa TI
+- **Cita-Cita:** Menjadi Developer Kelas Dunia
+- **Moto Hidup:** "*Bermimpilah besar, kodinglah lebih besar.*"
 
 ---
 
-# 🎬 Video Codingan Keren
-[![Coding Video](https://img.youtube.com/vi/V74l_zS1x8E/0.jpg)](https://www.youtube.com/watch?v=V74l_zS1x8E)
+## <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="40px"> Skill Programming
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+<br> 
+<b><font color="red">HTML5</font></b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+<br> 
+<b><font color="blue">CSS3</font></b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+<br> 
+<b><font color="yellow">JavaScript</font></b>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Tentang Saya
+## <img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="40px"> Social Media
 
-- **Nama Lengkap:** Alpin Developer
-- **Makanan Favorit:** Ayam Geprek + Es Kopi Susu
-- **Hobi:** Ngoding, Gaming, Editing Video
-- **Status Pendidikan:** Mahasiswa Teknik Informatika
-- **Moto Hidup:** "Code Hard, Play Harder"
-- **Target:** Menguasai Semua Framework Modern
-
----
-
-# ⚡ SKILLSET
-| HTML5 | CSS3 | JavaScript |
-|:----:|:----:|:----:|
-| ![HTML5](https://img.icons8.com/color/96/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/96/000000/css3.png) | ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) |
-
-> <span style="color:rgb(255,0,0)">RGB SKILL: MERAH</span> | <span style="color:rgb(0,255,0)">RGB SKILL: HIJAU</span> | <span style="color:rgb(0,0,255)">RGB SKILL: BIRU</span>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamu@email.com)
 
 ---
 
-# 📱 Sosial Media
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://instagram.com/alpindev)
-[![TikTok](https://img.shields.io/badge/TikTok-Profile-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@alpindev)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@alpindev)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/alpindev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/alpindev)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/alpindev)
-[![Email](https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail)](mailto:alpindev@gmail.com)
+## <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="30px"> Repository Stats
+
+![Alpin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alpindev&show_icons=true&theme=radical&hide_title=true)
 
 ---
 
-# ✨ Gallery Aesthetic
-> **Coding is Art.**
->
-> ![GIF Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<br>
+
+### <img src="https://cdn-icons-png.flaticon.com/512/1828/1828640.png" width="20px"> **Terima Kasih Sudah Berkunjung ke Profil Ini!**
+
+### <img src="https://cdn-icons-png.flaticon.com/512/1828/1828640.png" width="20px"> **Support Developer Lokal!**
 
 ---
-
-# ⚡ Fun Fact
-> "90% Debugging: Menyalahkan orang lain, 10% Kesalahan Sendiri."
-
----
-
-# 🏁 Footer
-<div align="center">
-
----
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" width="30px" />  
-Made with ❤️ by **Alpin Developer**  
-_Stay Hungry. Stay Foolish._
-</div>
-
 </div>
