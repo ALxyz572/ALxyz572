@@ -1,7 +1,5 @@
-<div align="center">
-<span style="background: linear-gradient(to right, #ff512f, #dd2476); -webkit-background-clip: text; color: transparent;">Alpin Developer</span>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00C6FF&width=1400&lines=Selamat+Datang+di+Profil+Alpin+Developer;Developer+Fullstack+dan+Content+Creator;Pencinta+Teknologi+dan+Desain;Mencintai+Kreativitas+dan+Inovasi;Berkarya+Tiada+Henti;Menggapai+Impian+Bersama+Teknologi;Explore.+Create.+Inspire.;Belajar+dan+Berbagi+Tanpa+Batas;Satu+Langkah+Lebih+Dekat+Menuju+Impian;Mengubah+Ide+Menjadi+Nyata;Coding+Adalah+Seni+dan+Kebebasan" alt="Typing SVG">
+<p align="center"> 
+<a href="https://github.com/Alxyz572"><img src="[http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=Raw+Github+Link++%F0%9F%90%88;Makasih+telah+mengunjungi+repositori.+%F0%9F%92%96](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00C6FF&width=1400&lines=Selamat+Datang+di+Profil+Alpin+Developer;Developer+Fullstack+dan+Content+Creator;Pencinta+Teknologi+dan+Desain;Mencintai+Kreativitas+dan+Inovasi;Berkarya+Tiada+Henti;Menggapai+Impian+Bersama+Teknologi;Explore.+Create.+Inspire.;Belajar+dan+Berbagi+Tanpa+Batas;Satu+Langkah+Lebih+Dekat+Menuju+Impian;Mengubah+Ide+Menjadi+Nyata;Coding+Adalah+Seni+dan+Kebebasan)" height="90px"></a> 
 
 
 ---
