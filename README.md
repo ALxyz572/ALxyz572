@@ -37,7 +37,6 @@
 | **Dart** | ![Dart](https://img.icons8.com/color/48/dart.png) |
 | **Swift** | ![Swift](https://img.icons8.com/color/48/swift.png) |
 | **Rust** | ![Rust](https://img.icons8.com/color/48/rust-programming-language.png) |
-| **Assembly** | ![Assembly](https://img.icons8.com/ios-filled/50/assembly.png) |
 
 <p align="center">
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200"/>
