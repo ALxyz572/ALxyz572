@@ -1,58 +1,84 @@
-<div align="center">
-
-<!-- HEADER GIF -->
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%" height="auto" />
-<img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="100%" height="auto" />
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" height="auto" />
-
-<!-- TYPING TEXT -->
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&pause=2000&color=0FF0FC&background=000000&center=true&vCenter=true&width=1100&lines=Selamat+Datang+di+Profil+Alpin+Developer;Sang+Penguasa+Kodingan;Frontend+%2F+Backend+Warrior;Master+Design+UX+UI" />
-</h1>
+# HALLO SEMUAAA!!!  
+## SELAMAT DATANG DI PROFILE ALPIN DEVELOPER!!!
 
 ---
 
-<!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/yoJC2Olx0ekMy2nX7W/giphy.gif" width="40px"> Tentang Alpin Developer
-
-> **Nama:** `Alpin Developer`  
-> **Hobi:** `Coding`, `Gaming`, `Ngopi`, `Push Rank ML`  
-> **Makanan Favorit:** `Bakso Pedas`, `Seblak`, `Sate Kambing`, `Mie Ayam`  
-> **Status:** `Mahasiswa TI`  
-> **Cita-cita:** `Software Engineer Skala Dunia`
+![WELCOME](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
 ---
 
-<!-- SKILL -->
-## <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="40px"> Skill Senjata Alpin Developer
+## SEDIKIT TENTANG GUA:
+> **DEVELOPER GACOR SEJAK LAHIR**  
+> **NGODING DI DALAM MIMPI JUGA BISA**  
+> **BISA SEMUA BAHASA DARI A SAMPE Z**  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,java,flutter&theme=light" width="80%"/>
-</p>
-
----
-
-<!-- SOSIAL MEDIA -->
-## <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="40px"> Sosial Media Alpin Developer
-
-<p align="center">
-  <a href="https://www.tiktok.com/@alpindev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://www.instagram.com/alpindev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@alpindev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://wa.me/628123456789" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://t.me/alpindev" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:alpindev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/alpindev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://facebook.com/alpindev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
+![Coding](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
 ---
 
-<!-- FOOTER -->
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" height="auto" />
+## KEAHLIAN FULL SULTAN:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Verified%20Profile-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+| Bahasa Pemrograman | Logo |
+| :---: | :---: |
+| **HTML5** | ![HTML5](https://img.icons8.com/color/48/html-5--v1.png) |
+| **CSS3** | ![CSS3](https://img.icons8.com/color/48/css3.png) |
+| **JavaScript** | ![JS](https://img.icons8.com/color/48/javascript--v1.png) |
+| **TypeScript** | ![TypeScript](https://img.icons8.com/color/48/typescript.png) |
+| **PHP** | ![PHP](https://img.icons8.com/officel/48/php-logo.png) |
+| **Laravel** | ![Laravel](https://img.icons8.com/ios-filled/50/fa314a/laravel.png) |
+| **Python** | ![Python](https://img.icons8.com/color/48/python--v1.png) |
+| **Dart** | ![Dart](https://img.icons8.com/color/48/dart.png) |
+| **C** | ![C](https://img.icons8.com/color/48/c-programming.png) |
+| **C++** | ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png) |
+| **C#** | ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) |
+| **Kotlin** | ![Kotlin](https://img.icons8.com/color/48/kotlin.png) |
+| **Swift** | ![Swift](https://img.icons8.com/color/48/swift.png) |
+| **Go** | ![Go](https://img.icons8.com/color/48/golang.png) |
+| **Rust** | ![Rust](https://img.icons8.com/ios/50/rust-programming-language.png) |
+| **Ruby** | ![Ruby](https://img.icons8.com/color/48/ruby-programming-language.png) |
+| **Perl** | ![Perl](https://img.icons8.com/ios/50/perl.png) |
+| **Haskell** | ![Haskell](https://img.icons8.com/ios/50/haskell.png) |
+| **SQL** | ![SQL](https://img.icons8.com/ios-filled/50/sql.png) |
+| **Bash** | ![Bash](https://img.icons8.com/ios-filled/50/bash.png) |
+| **Assembly** | ![Assembly](https://img.icons8.com/ios/50/assembly.png) |
 
-</div>
+---
+
+## SOSMED GUE PALING GACOR:
+
+| Platform | Link | Logo |
+| :---: | :--- | :---: |
+| **Instagram** | [Follow IG Gua](https://instagram.com/) | ![IG](https://img.icons8.com/fluency/48/instagram-new.png) |
+| **Facebook** | [Add Facebook Gua](https://facebook.com/) | ![FB](https://img.icons8.com/fluency/48/facebook-new.png) |
+| **TikTok** | [Follow TikTok Gua](https://tiktok.com/) | ![TikTok](https://img.icons8.com/fluency/48/tiktok.png) |
+| **YouTube** | [Subscribe YouTube Gua](https://youtube.com/) | ![YouTube](https://img.icons8.com/fluency/48/youtube-play.png) |
+| **LinkedIn** | [Connect LinkedIn Gua](https://linkedin.com/) | ![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png) |
+| **GitHub** | [Follow GitHub Gua](https://github.com/) | ![GitHub](https://img.icons8.com/fluency/48/github.png) |
+| **Discord** | [Join Discord Gua](https://discord.com/) | ![Discord](https://img.icons8.com/fluency/48/discord-logo.png) |
+
+---
+
+## ANIMATION & VIBES:
+
+![Animation](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+
+---
+
+## KESIMPULAN:
+
+> **GUE BUKAN SEKEDAR DEVELOPER, GUE ADALAH LEGENDA**  
+> **YANG BISA NGODING TANPA KOPI!!!**
+
+---
+
+## SUPPORT ME:
+
+☕ Mau traktir kopi? [Klik Disini](https://buymeacoffee.com/)  
+![Coffee](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
+
+---
+
+# TERIMAKASIH UDAH MAMPIR!!!  
+# SALAM NGODING GACOR!!!
+
+![Bye GIF](https://media.giphy.com/media/l0MYyDa8C4r6YpYdy/giphy.gif)
