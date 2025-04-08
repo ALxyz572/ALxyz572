@@ -13,7 +13,7 @@
 
 - **Makanan Favorit:** <span style="color:#00c6ff;">Sate Ayam, Pizza, Ramen</span>  
 - **Kegiatan:** <span style="color:#ffafbd;">Ngoding, Desain, Membaca Buku Teknologi</span>  
-- **Status Pendidikan:** <span style="color:#f77062;">Mahasiswa Informatika</span>  
+- **Status Pendidikan:** <span style="color:#f77062;">Mahasiswa Keagamaan</span>  
 - **Hobi:** <span style="color:#42e695;">Gaming, Musik, Traveling</span>  
 
 ---
