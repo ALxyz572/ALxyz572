@@ -71,7 +71,7 @@
 > "Tidak semua bug buruk, kadang mereka ngajarin lo sabar..."
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7ozWVYCR0nyW2rv8T/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300"/>
 </p>
 
 ---
