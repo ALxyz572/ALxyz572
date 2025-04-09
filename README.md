@@ -48,13 +48,13 @@
 
 | Platform | Username | Logo |
 |:--------:|:--------:|:----:|
-| **Instagram** | @alpin.dev | ![Instagram](https://img.icons8.com/color/48/instagram-new--v1.png) |
-| **GitHub** | Alpin-Dev | ![GitHub](https://img.icons8.com/ios-glyphs/48/github.png) |
-| **LinkedIn** | Alpin Developer | ![LinkedIn](https://img.icons8.com/color/48/linkedin.png) |
-| **YouTube** | Alpin Dev | ![YouTube](https://img.icons8.com/color/48/youtube-play.png) |
-| **TikTok** | @alpin.dev | ![TikTok](https://img.icons8.com/color/48/tiktok--v1.png) |
-| **Discord** | Alpin#2025 | ![Discord](https://img.icons8.com/color/48/discord--v1.png) |
-| **Facebook** | Alpin Developer | ![Facebook](https://img.icons8.com/color/48/facebook-new.png) |
+| **Instagram** | @alpian1_ | ![Instagram](https://img.icons8.com/color/48/instagram-new--v1.png) |
+| **GitHub** | ALxyz572 | ![GitHub](https://img.icons8.com/ios-glyphs/48/github.png) |
+| **LinkedIn** | AlpinDeveloper | ![LinkedIn](https://img.icons8.com/color/48/linkedin.png) |
+| **YouTube** | @alpindevv | ![YouTube](https://img.icons8.com/color/48/youtube-play.png) |
+| **TikTok** | @alpindevbruh | ![TikTok](https://img.icons8.com/color/48/tiktok--v1.png) |
+| **Discord** | Alpin2025 | ![Discord](https://img.icons8.com/color/48/discord--v1.png) |
+| **Facebook** | AlpinDeveloper | ![Facebook](https://img.icons8.com/color/48/facebook-new.png) |
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="200"/>
